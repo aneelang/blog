@@ -1,6 +1,6 @@
 ---
 layout: post
-<b>title: Next Title
----</b>
+title: Next Title
+---
 
 This is the post.
