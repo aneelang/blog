@@ -30,4 +30,4 @@ Features WhatsApp can add to their desktop application.
 
 > Also, I'm looking forward for the payment feature which hopefully rolls out in Canada.
 
-If you want to know of other features that could be added, email me at flyingsaucer63@gmail.com I'll update the post with your contribution!
+If you have other features that could be added, email me at flyingsaucer63@gmail.com I'll update the post with your contribution!
