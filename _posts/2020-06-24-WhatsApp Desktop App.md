@@ -26,7 +26,7 @@ Features WhatsApp can add to their desktop application.
    </div>
 </dl>
 
-<div class = "message"> The one feature! It would changing WhatsApp from a communication medium to a social media application with scrolling and etc. I like the way the app is and would love to see the changes mentioned. </div>
+<div class = "message"> The one feature I don't want! It would be changing WhatsApp from a communication medium to a social media application with scrolling and etc. I like the way the app is and would love to see the changes mentioned above. </div>
 
 > Also, I'm looking forward for the payment feature which hopefully rolls out in Canada.
 
